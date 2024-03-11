@@ -109,7 +109,13 @@ docker login ip:port -u <username> -p <password>
 
 ### 拉取来自其它源的镜像
 
-在 Harbor 中，登录管理员账户后，可以增加新的镜像源，并在项目管理中创建同名项目。
+在 Harbor 中，登录管理员账户后，可以增加新的镜像源，
+
+![](../assets/images/0311-harbar-创建仓库.png)
+
+在项目管理中创建同名项目。
+
+![](../assets/images/0311-harbar-创建项目.png)
 
 配置镜像源后，初次拉取新镜像时， Harbor 会从远端仓库获取镜像。后续再拉取时，能直接使用 Harbor 缓存的本地镜像。
 
