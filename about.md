@@ -26,18 +26,8 @@ titles:
 key: page-about
 ---
 
-I am Hexiao Zhang, holding a Bachelor's degree from Tsinghua University and a Master's degree from HKUST, both in Computer Science and Technology. 
-
-During my undergraduate studies, I achieved a GPA rank within the top 10%, demonstrating my academic excellence and dedication.
-
-Now my professional field spans across several cutting-edge areas, including:
-
-- NLP: Vertical applications of large language models.
-- Big Data: Stream computing with Flink, SQL query engines based on Apache Calcite.
-- Cloud: Distributed computing, Kubernetes.
-
 ### Contact me:
 
-- Email (Preferred): zhanghx200095@qq.com
+- Email: zhanghx200095@qq.com
 - WeChat: zhanghx0905
 
